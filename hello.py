@@ -10,3 +10,5 @@ stock = [
 stock[0]["recommended"].append("Xiaomi Mi11")
 stock[2]["price"] = stock[2]["price"] - 30000
 pprint(stock)
+
+print("Hello world")
